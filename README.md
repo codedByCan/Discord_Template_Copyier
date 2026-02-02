@@ -25,16 +25,12 @@ Automating user accounts is against Discord's Terms of Service. This project is 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/codedByCan/Discord_Template_Copyier.git
-   cd Discord_Template_Copyier
-
-```
+   cd Discord_Template_Copyier```
 
 2. **Install the required dependencies:**
 *Note: This tool uses `discord.py-self` to function with user tokens.*
 ```bash
-pip install discord.py-self
-
-```
+pip install discord.py-self```
 
 
 
